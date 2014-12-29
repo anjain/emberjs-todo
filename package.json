@@ -1,0 +1,17 @@
+{
+
+  "name": "Ember",
+
+  "version": "0.0.1",
+
+  "description": "test job",
+
+  "author": "Rhea",
+
+  "dependencies": {
+
+    "express": "^4.2.0"   
+
+  }  
+
+}
